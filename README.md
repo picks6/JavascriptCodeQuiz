@@ -1,5 +1,11 @@
 # 04 Web APIs: Code Quiz
 
+## Deployed Webpage
+https://picks6.github.io/JavascriptCodeQuiz/index.html
+
+## How to Use
+Click the "Start Quiz" button to begin, this will load a 3 question quiz and begin a countdown. If you answer incorrectly, 10 seconds will be deducted from your timer. Once completed your final time can be submitted as a local high score viewable on the highscores.html page. 
+
 ## Your Task
 
 At some point in your journey to become a full-stack web developer, you’ll likely be asked to complete a coding assessment&mdash;perhaps as part of an interview process. A typical coding assessment includes both multiple-choice questions and interactive coding challenges. 
